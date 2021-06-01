@@ -1,0 +1,25 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "Homework TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nockzblack/TDD.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Fernando Benavides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nockzblack/TDD/issues"
+  },
+  "homepage": "https://github.com/nockzblack/TDD#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
